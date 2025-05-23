@@ -11,3 +11,8 @@
 - Step-by-step Hill Climbing algorithm visualization
 - Solution status tracking with success/failure messages
 - Reset functionality for new configurations
+
+
+### Stack
+- Js, HTML, CSS
+  
