@@ -2,7 +2,8 @@
 
 4-Queens problem solved using the Hill Climbing algorithm.
 
-![image](https://github.com/user-attachments/assets/f54ddaea-756f-45aa-b463-0a73c34506ae)
+![image](https://github.com/user-attachments/assets/ab7c9947-48aa-4691-bb5f-0abac9eada00)
+
 
 
 ## Features
