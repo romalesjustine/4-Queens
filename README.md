@@ -7,7 +7,6 @@
 
 
 ## Features
-- Interactive 4x4 chessboard visualization
 - Random initial state generation
 - Step-by-step Hill Climbing algorithm visualization
 - Solution status tracking with success/failure messages
